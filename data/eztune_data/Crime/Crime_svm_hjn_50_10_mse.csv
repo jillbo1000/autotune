@@ -1,0 +1,11 @@
+data,method,optimizer,fast,cross,loss_type,time,loss,loss_mse_acc_10,loss_mae_auc_10
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA
+Crime,svm,hjn,50,10,mse,NA,NA,NA,NA

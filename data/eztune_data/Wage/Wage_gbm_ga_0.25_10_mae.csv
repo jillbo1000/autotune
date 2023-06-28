@@ -1,0 +1,11 @@
+data,method,optimizer,fast,cross,loss_type,time,loss,loss_mse_acc_10,loss_mae_auc_10
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA
+Wage,gbm,ga,0.25,10,mae,NA,NA,NA,NA

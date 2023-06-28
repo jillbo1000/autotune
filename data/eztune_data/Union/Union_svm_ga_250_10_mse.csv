@@ -1,0 +1,11 @@
+data,method,optimizer,fast,cross,loss_type,time,loss,loss_mse_acc_10,loss_mae_auc_10
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
+Union,svm,ga,250,10,mse,NA,NA,NA,NA
