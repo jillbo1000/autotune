@@ -1,6 +1,8 @@
 # autotune_files
 Code for the paper "Tuning support vector machines and boosted trees using optimization algorithms" in the Journal of Data Science
 
+Each directory is outlined below and each of the directories contains a readme that explains the files in the subfolders. 
+
 ## data directory
 The data directory contains the data files used to do the research, the 
 grid search results, the optimization test results, and the EZtune test 
